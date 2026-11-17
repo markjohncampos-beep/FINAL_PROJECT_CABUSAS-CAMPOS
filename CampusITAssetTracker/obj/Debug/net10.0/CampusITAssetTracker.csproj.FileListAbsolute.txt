@@ -1,0 +1,15 @@
+C:\Users\Mark John Campos\source\repos\CampusITAssetTracker\CampusITAssetTracker\bin\Debug\net10.0\CampusITAssetTracker.exe
+C:\Users\Mark John Campos\source\repos\CampusITAssetTracker\CampusITAssetTracker\bin\Debug\net10.0\CampusITAssetTracker.deps.json
+C:\Users\Mark John Campos\source\repos\CampusITAssetTracker\CampusITAssetTracker\bin\Debug\net10.0\CampusITAssetTracker.runtimeconfig.json
+C:\Users\Mark John Campos\source\repos\CampusITAssetTracker\CampusITAssetTracker\bin\Debug\net10.0\CampusITAssetTracker.dll
+C:\Users\Mark John Campos\source\repos\CampusITAssetTracker\CampusITAssetTracker\bin\Debug\net10.0\CampusITAssetTracker.pdb
+C:\Users\Mark John Campos\source\repos\CampusITAssetTracker\CampusITAssetTracker\obj\Debug\net10.0\CampusITAssetTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark John Campos\source\repos\CampusITAssetTracker\CampusITAssetTracker\obj\Debug\net10.0\CampusITAssetTracker.AssemblyInfoInputs.cache
+C:\Users\Mark John Campos\source\repos\CampusITAssetTracker\CampusITAssetTracker\obj\Debug\net10.0\CampusITAssetTracker.AssemblyInfo.cs
+C:\Users\Mark John Campos\source\repos\CampusITAssetTracker\CampusITAssetTracker\obj\Debug\net10.0\CampusITAssetTracker.csproj.CoreCompileInputs.cache
+C:\Users\Mark John Campos\source\repos\CampusITAssetTracker\CampusITAssetTracker\obj\Debug\net10.0\CampusITAssetTracker.dll
+C:\Users\Mark John Campos\source\repos\CampusITAssetTracker\CampusITAssetTracker\obj\Debug\net10.0\refint\CampusITAssetTracker.dll
+C:\Users\Mark John Campos\source\repos\CampusITAssetTracker\CampusITAssetTracker\obj\Debug\net10.0\CampusITAssetTracker.pdb
+C:\Users\Mark John Campos\source\repos\CampusITAssetTracker\CampusITAssetTracker\obj\Debug\net10.0\CampusITAssetTracker.genruntimeconfig.cache
+C:\Users\Mark John Campos\source\repos\CampusITAssetTracker\CampusITAssetTracker\obj\Debug\net10.0\ref\CampusITAssetTracker.dll
+C:\Users\Mark John Campos\source\repos\CampusITAssetTracker\CampusITAssetTracker\obj\Debug\net10.0\CampusIT.DA18B504.Up2Date
